@@ -1,0 +1,26 @@
+#include "bonusbutton.h"
+
+#include <QGraphicsTextItem>
+#include <QFont>
+#include <QBrush>
+
+test::test()
+{/*
+  QRect rer(0,0,200,50);
+        /*
+  test=new QGraphicsRectItem(0);
+          test->setPos(0,0);
+          QPen pointpen(Qt::black);
+          test->setPen(pointpen);*/
+//  QPixmap set_image;
+//  set_image.load(":/new/prefix1/settings_image.png");
+//        QBrush brush(set_image);
+//        rer.setBrush(brush);*/
+
+}
+
+test::~test()
+{
+
+}
+

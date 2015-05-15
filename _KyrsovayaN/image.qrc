@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>tetris.jpg</file>
+        <file>loading.gif</file>
+        <file>kvadratik.gif</file>
+        <file>pause.jpg</file>
+        <file>setings.jpg</file>
+        <file>game.jpg</file>
+        <file>menu.jpg</file>
+        <file>loading.jpg</file>
+        <file>records.jpg</file>
+        <file>pause0.png</file>
+        <file>game0.png</file>
+        <file>menu0.png</file>
+        <file>setings0.png</file>
+        <file>records0.png</file>
+        <file>settings_image.png</file>
+        <file>tetris.png</file>
+        <file>Cursor.png</file>
+        <file>Cursor1.cur</file>
+        <file>Cursor0.cur</file>
+        <file>CoubBeretta.mp3</file>
+        <file>About2.jpg</file>
+    </qresource>
+</RCC>
